@@ -60,6 +60,10 @@ One of the key aspects of this program is the use of dynamic memory allocation w
 Conclusion:
 This C program effectively demonstrates the basic operations of a singly linked list, which is a fundamental data structure used in many computer science applications. The program covers inserting nodes at both ends, deleting nodes by value, and traversing the list. Through this exercise, one learns the importance of pointer manipulation, memory management, and efficient handling of data in dynamic structures like linked lists. The implementation is clear and well-structured, making it a useful example for learning about linked lists in C.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/cc9dd322-0587-4eec-ad36-cbf3b612a0b5)
+
+
 
 
 
